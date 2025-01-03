@@ -4,7 +4,7 @@ module.exports.URL = {
     base: baseURL,
     webPage: 'https://fakeyou.com',
     gravatar: 'https://www.gravatar.com/avatar/',
-    cdn: 'https://storage.googleapis.com/vocodes-public',
+    cdn: 'https://cdn-2.fakeyou.com',
     models: baseURL + '/tts/list',
     categories: baseURL + '/category/list/tts',
     login: baseURL + '/login',
